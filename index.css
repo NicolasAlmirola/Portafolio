@@ -1,0 +1,46 @@
+.text-bitmaus {
+    color: #E09145 !important;
+}
+#header img{
+    width: 100px;
+}
+#main h1,
+#main h5 {
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+#main .carousel-inner img {
+    max-height: 70vh;
+    filter: grayscale(40%);
+}
+.carousel {
+    position: relative;
+}
+.carousel .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5)
+}
+.carousel .overlay .container,
+.carousel .overlay .row {
+    height: 100%;
+}
+.foto {
+    width: 300px;
+}
+.about-me {
+    background-color: black;
+    color: white;
+}
+.info {
+    margin-top: 6rem;
+}
+.skills {
+    margin-top: 10rem !important;
+    color: #E09145;
+    font-size: x-large;
+}
