@@ -1,0 +1,5 @@
+## colors
+yellow : #FAB700
+
+name font family 
+font-family: 'Secular One', sans-serif;
