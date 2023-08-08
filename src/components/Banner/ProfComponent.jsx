@@ -5,7 +5,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
 import Person from '../assets/images/Banner/Foto.png';
 import { AiFillGithub } from "react-icons/ai";
-import CV from '../assets/docs/'
+import CV from '../assets/docs/Front-end-Nicolas-Velasco-CV.pdf'
 
 const ProfComponent = () => {
   return (
