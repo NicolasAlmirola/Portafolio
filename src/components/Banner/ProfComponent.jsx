@@ -5,7 +5,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
 import Person from '../assets/images/Banner/Foto.png';
 import { AiFillGithub } from "react-icons/ai";
-import CV from '../assets/docs/cv_meri_gogichashvili.82cf02170599d07714c9.pdf'
+import CV from '../assets/docs/'
 
 const ProfComponent = () => {
   return (
