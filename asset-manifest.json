@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portafolio/static/css/main.ddc898e9.css",
+    "main.js": "/Portafolio/static/js/main.ae7b04bd.js",
+    "static/media/Foto.png": "/Portafolio/static/media/Foto.becece6b3c45c050296d.png",
+    "static/media/Gta.png": "/Portafolio/static/media/Gta.228c0655d971d5bbf0fa.png",
+    "static/media/Horizontal blanco.png": "/Portafolio/static/media/Horizontal blanco.50aee9d4eefe4898029e.png",
+    "static/media/cv_meri_gogichashvili.pdf": "/Portafolio/static/media/cv_meri_gogichashvili.82cf02170599d07714c9.82cf02170599d07714c9.pdf",
+    "static/media/Mini-Teaching.jpg": "/Portafolio/static/media/Mini-Teaching.3ddbe164edef1dc352b8.jpg",
+    "static/media/Lets-Go-English.jpg": "/Portafolio/static/media/Lets-Go-English.31f307eab4e9a488e6c1.jpg",
+    "static/media/Copia-de-google.png": "/Portafolio/static/media/Copia-de-google.b00d173fb9a01509c81d.png",
+    "index.html": "/Portafolio/index.html",
+    "main.ddc898e9.css.map": "/Portafolio/static/css/main.ddc898e9.css.map",
+    "main.ae7b04bd.js.map": "/Portafolio/static/js/main.ae7b04bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc898e9.css",
+    "static/js/main.ae7b04bd.js"
+  ]
+}
