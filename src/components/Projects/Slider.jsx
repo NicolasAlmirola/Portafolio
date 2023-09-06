@@ -11,14 +11,14 @@ import Gotodo from '../assets/images/Proyectos/GO-todo.png'
 
 let data = [
     {
-        img : lge,
-        disc : "Líder y desarrollador de Let's Go English, Una plataforma e learning desarrollada para la educación virtual de inglés, basada en el sistema Neuro GBL.",
-        demo : 'https://letsgoenglish.online/'
+      img : Gotodo,
+      disc : "Todo Machine hecho en React.js",
+      demo : 'https://nicolasalmirola.github.io/GO-todo/'
     },
     {
-        img : mt,
-        disc : "Líder y desarrollador de Mini Teaching, una plataforma de aprendizaje del idioma inglés gratuito, inspirado en plataformas de entretenimiento como Netflix, Amazon, HBO entre otras.",
-        demo : 'https://miniteaching.letsgoneurogbl.com/'
+      img : gta,
+      disc : "Pagina hecha para probar la funcionalidad del framework Bootstrap 5",
+      demo : 'https://nicolasalmirola.github.io/Gta-Saga/'
     },
     {
       img : google,
@@ -26,15 +26,15 @@ let data = [
       demo : 'https://nicolasalmirola.github.io/Copia-de-Google/'
     },
     {
-        img : gta,
-        disc : "Pagina hecha para probar la funcionalidad del framework Bootstrap 5",
-        demo : 'https://nicolasalmirola.github.io/Gta-Saga/'
+      img : mt,
+      disc : "Líder y desarrollador de Mini Teaching, una plataforma de aprendizaje del idioma inglés gratuito, inspirado en plataformas de entretenimiento como Netflix, Amazon, HBO entre otras.",
+      demo : 'https://miniteaching.letsgoneurogbl.com/'
     },
     {
-      img : Gotodo,
-      disc : "Todo Machine hecho en React.js",
-      demo : 'https://nicolasalmirola.github.io/GO-todo/'
-  }
+      img : lge,
+      disc : "Líder y desarrollador de Let's Go English, Una plataforma e learning desarrollada para la educación virtual de inglés, basada en el sistema Neuro GBL.",
+      demo : 'https://letsgoenglish.online/'
+    }
 ];
 
 var settings = {
