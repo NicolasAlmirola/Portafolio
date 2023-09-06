@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.ddc898e9.css",
-    "main.js": "/Portafolio/static/js/main.0f5d869c.js",
-    "static/media/Gta.png": "/Portafolio/static/media/Gta.228c0655d971d5bbf0fa.png",
+    "main.js": "/Portafolio/static/js/main.31c09ae2.js",
     "static/media/Front-end-Nicolas-Velasco-CV.pdf": "/Portafolio/static/media/Front-end-Nicolas-Velasco-CV.012d36eb22e686aad307.pdf",
     "static/media/Foto.png": "/Portafolio/static/media/Foto.2aa5161b5c564f8cc769.png",
+    "static/media/Gta.png": "/Portafolio/static/media/Gta.75680e1b8c9cdd2781a1.png",
     "static/media/Horizontal blanco.png": "/Portafolio/static/media/Horizontal blanco.50aee9d4eefe4898029e.png",
-    "static/media/Mini-Teaching.jpg": "/Portafolio/static/media/Mini-Teaching.3ddbe164edef1dc352b8.jpg",
-    "static/media/Lets-Go-English.jpg": "/Portafolio/static/media/Lets-Go-English.31f307eab4e9a488e6c1.jpg",
-    "static/media/Copia-de-google.png": "/Portafolio/static/media/Copia-de-google.b00d173fb9a01509c81d.png",
+    "static/media/GO-todo.png": "/Portafolio/static/media/GO-todo.00a2270b9765b82a571b.png",
+    "static/media/Mini-Teaching.jpg": "/Portafolio/static/media/Mini-Teaching.d928a272d781c4a6a939.jpg",
+    "static/media/Lets-Go-English.jpg": "/Portafolio/static/media/Lets-Go-English.79cc413a9f5c4101e185.jpg",
+    "static/media/Copia-de-google.png": "/Portafolio/static/media/Copia-de-google.a2d698b88f8cc0d96ab3.png",
     "index.html": "/Portafolio/index.html",
     "main.ddc898e9.css.map": "/Portafolio/static/css/main.ddc898e9.css.map",
-    "main.0f5d869c.js.map": "/Portafolio/static/js/main.0f5d869c.js.map"
+    "main.31c09ae2.js.map": "/Portafolio/static/js/main.31c09ae2.js.map"
   },
   "entrypoints": [
     "static/css/main.ddc898e9.css",
-    "static/js/main.0f5d869c.js"
+    "static/js/main.31c09ae2.js"
   ]
 }
