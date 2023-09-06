@@ -7,6 +7,7 @@ import lge from '../assets/images/Proyectos/Lets-Go-English.jpg';
 import mt from '../assets/images/Proyectos/Mini-Teaching.jpg';
 import gta from '../assets/images/Proyectos/Gta.png'
 import google from '../assets/images/Proyectos/Copia-de-google.png'
+import Gotodo from '../assets/images/Proyectos/GO-todo.png'
 
 let data = [
     {
@@ -28,7 +29,12 @@ let data = [
         img : gta,
         disc : "Pagina hecha para probar la funcionalidad del framework Bootstrap 5",
         demo : 'https://nicolasalmirola.github.io/Gta-Saga/'
-    }
+    },
+    {
+      img : Gotodo,
+      disc : "Todo Machine hecho en React.js",
+      demo : 'https://nicolasalmirola.github.io/GO-todo/'
+  }
 ];
 
 var settings = {
